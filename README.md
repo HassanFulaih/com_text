@@ -1,16 +1,4 @@
-# com_test
 
-A new Flutter project.
+![Simulator Screen Shot - iPhone 13 Pro Max - 2022-03-31 at 18 34 37](https://user-images.githubusercontent.com/42120995/161093756-3b7c97d1-e8f0-4af3-9dbc-1940c678170f.png)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Simulator Screen Shot - iPhone 13 Pro Max - 2022-03-31 at 18 34 31](https://user-images.githubusercontent.com/42120995/161093772-a121c4a5-14bb-4253-8a17-fd2a1faca8ea.png)
